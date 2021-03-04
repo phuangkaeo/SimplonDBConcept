@@ -2,8 +2,8 @@
 
 # Introduction to Database Design
 
-# A house and apartment rental agency wishes to manage its list of accommodation.
-# She would indeed like to know the location of each dwelling (name of the town and district) as well as the people who occupy them (the signatories only). The rent depends on the accommodation, but depending on its type (house, studio, T1, T2 ...) the agency will always charge in addition to the rent the same lump sum to its customers. For example, the price of a studio will always be equal to the price of the rent + 30 DH of fixed charges per month. For each accommodation, we also want to have the address, the area as well as the rent. The agency would also like to know: The individuals who occupy the accommodation (the signatories of the contract only), we will be satisfied with their names, first names, date of birth and telephone number. For each municipality,
+A house and apartment rental agency wishes to manage its list of accommodation.
+She would indeed like to know the location of each dwelling (name of the town and district) as well as the people who occupy them (the signatories only). The rent depends on the accommodation, but depending on its type (house, studio, T1, T2 ...) the agency will always charge in addition to the rent the same lump sum to its customers. For example, the price of a studio will always be equal to the price of the rent + 30 DH of fixed charges per month. For each accommodation, we also want to have the address, the area as well as the rent. The agency would also like to know: The individuals who occupy the accommodation (the signatories of the contract only), we will be satisfied with their names, first names, date of birth and telephone number. For each municipality,
 
 # Pedagogical modalities
 
